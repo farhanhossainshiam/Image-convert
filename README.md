@@ -6,7 +6,7 @@ A modern, sleek image converter built with Next.js that allows users to upload i
 
 - 🚀 **Lightning Fast** - Convert images in seconds with optimized processing
 - 🔒 **100% Secure** - All processing happens in your browser, no server uploads
-- 🌐 **All Formats** - Support for JPG, PNG, WebP
+- 🌐 **All Formats** - Support for JPG, PNG, WebP, AVIF, GIF, BMP, TIFF
 - 📱 **Responsive Design** - Works perfectly on desktop and mobile
 - 🎨 **Modern UI** - Clean, intuitive interface with smooth animations
 - 🔄 **Drag & Drop** - Easy file upload with drag and drop support
